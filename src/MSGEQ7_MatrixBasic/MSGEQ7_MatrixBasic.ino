@@ -3,6 +3,9 @@
  * 
  * Copyright (c) 2019 by Gaston Williams
  * 
+ * Based on the original MSGEQ7 tutorial by J. Skoba.
+ * Available at http://nuewire.com/info-archive/msgeq7-by-j-skoba/
+ * 
  * This project also uses an MSGEQ7 Graphic Equalizer Display filter
  * from Sparkfun available at https://www.sparkfun.com/products/10468
  * 
