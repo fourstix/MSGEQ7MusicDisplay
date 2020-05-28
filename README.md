@@ -44,8 +44,9 @@ create a Volume Unit or VU display
 * **/src/MSGEQ7_MatrixPeak/**  
   * MSGEQ7_MatrixPeak.ino -- Program showing a VU Peak display of the MSGEQ7 Graphic Equalizer on the 8x8 BiColor LED Matrix with 
 Peak detection.
-* **/pics** -- example pictures for README file
-
+* **/pics/** -- Example pictures for README file
+* **/docs/**
+  * MSGEQ7.pdf -- MSI Seven Band Graphic Equalizer Data Sheet
 
 License Information
 -------------------
