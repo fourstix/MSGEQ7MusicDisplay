@@ -27,7 +27,7 @@ Examples
   </tr>
   <tr align="center">
   <td>Schematic diagram of the MSGEQ7 circuit.</td>
-  <td>Breadboard with the MSGEQ7 circut connected to an Arduino with an 8x8 BiColor LED Matrix display.</td>
+  <td>Breadboard with the MSGEQ7 circuit connected to an Arduino with an 8x8 BiColor LED Matrix display.</td>
   <td>MSGEQ7 circuit implemented on an Arduino shield with an 8x8 BiColor LED Matrix display..</td>
   </tr>
  </table>
@@ -37,7 +37,7 @@ Repository Contents
 * **/src/MSGEQ7_MatrixBasic/**
   * MSGEQ7_MatrixBasic.ino -- Basic program showing a linear display of the MSGEQ7 Graphic Equalizer on the 8x8 BiColor LED Matrix.
 * **/src/MSGEQ7_FindQ/** 
-  * MSGEQ7_FindQ.ino -- Program to determine and print the quiescient points of the MSGEQ7 Graphic Equalizer's output.
+  * MSGEQ7_FindQ.ino -- Program to determine and print the quiescent points of the MSGEQ7 Graphic Equalizer's output.
 * **/src/MSGEQ7_VU/**  
   * MSGEQ7_VU.ino -- Program showing a logarithmic or decibel display of the MSGEQ7 Graphic Equalizer on the 8x8 BiColor LED Matrix to
 create a Volume Unit or VU display
@@ -62,7 +62,7 @@ trademarks of the Sparkfun Electronics Corporation, in the United States,
 other countries or both. 
 
 Adafruit, the Adafruit logo, and other Adafruit products and services are
-trademarks of the Adafruit Industries, in the United States,other countries or both. 
+trademarks of the Adafruit Industries, in the United States, other countries or both. 
 
 Other company, product, or services names may be trademarks or services marks of others.
 
@@ -72,7 +72,7 @@ The Adafruit LED Backpack Library
 Copyright (c) 2012 Adafruit Industries
 Written by Limor Fried/Ladyada for Adafruit Industries.  
  
-Many thanks to the original authors for making their designs and code avaialble as open source.
+Many thanks to the original authors for making their designs and code available as open source.
   
 This code, firmware, and software is released under the [MIT License](http://opensource.org/licenses/MIT).
  
