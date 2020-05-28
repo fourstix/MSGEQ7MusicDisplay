@@ -4,6 +4,21 @@
  * This version of the equalizer sketch uses off for the lowest range
  * giving us nine levels for the seven channels. It also adds peak 
  * detection to show the maximum value in the eighth column.
+ *  
+ * Copyright (c) 2019 by Gaston Williams
+ * 
+ * This project also uses an MSGEQ7 Graphic Equalizer Display filter
+ * from Sparkfun available at https://www.sparkfun.com/products/10468
+ * 
+ * This project uses the Adafruit 8x8 BiColor LED Matrix with I2C Backpack
+ * Available from Adafruit at https://www.adafruit.com/product/902
+ *  
+ * This program uses the Adafruit LED Backpack Library
+ * written by Limor Fried/Ladyada for Adafruit Industries.  
+ * Copyright (c) 2012 Adafruit Industries
+ * 
+ * All libraries and hardware designs are copyright their respective authors. 
+ * 
  */
 #include <Wire.h>
 #include <Adafruit_GFX.h>

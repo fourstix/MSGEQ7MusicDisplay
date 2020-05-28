@@ -7,6 +7,17 @@
  * 
  * Run this program without any audio inputs to calculate
  * the channel offsets for the MSGEQ7.
+ * 
+ * Copyright (c) 2019 by Gaston Williams
+ * 
+ * This project also uses an MSGEQ7 Graphic Equalizer Display filter
+ * from Sparkfun available at https://www.sparkfun.com/products/10468
+ * 
+ * This project uses the Adafruit 8x8 BiColor LED Matrix with I2C Backpack
+ * Available from Adafruit at https://www.adafruit.com/product/902
+ *  
+ * All libraries and hardware designs are copyright their respective authors. 
+ * 
  */
 
 #include <Wire.h>
