@@ -20,9 +20,9 @@ Examples
 --------
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><img src="https://github.com/fourstix/MSGEQ7MusicalDisplay/blob/master/pics/Schematic.jpg"></td>
-   <td><img src="https://github.com/fourstix/MSGEQ7MusicalDisplay/blob/master/pics/MSGEQ7Breadboard.jpg"></td> 
-   <td><img src="https://github.com/fourstix/MSGEQ7MusicalDisplay/blob/master/pics/MSGEQ7Shield.jpg"></td> 
+   <td><img src="https://github.com/fourstix/MSGEQ7MusicDisplay/blob/master/pics/Schematic.jpg"></td>   
+   <td><img src="https://github.com/fourstix/MSGEQ7MusicDisplay/blob/master/pics/MSGEQ7Breadboard.jpg"></td>    
+   <td><img src="https://github.com/fourstix/MSGEQ7MusicDisplay/blob/master/pics/MSGEQ7Shield.jpg"></td> 
   </tr>
   <tr align="center">
   <td>Schematic diagram of the MSGEQ7 circuit.</td>
