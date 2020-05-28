@@ -9,12 +9,13 @@ Introduction
 
 
 This code was based on the original MSGEQ7 tutorial by J. Skoba, [archived here.](http://http://nuewire.com/info-archive/msgeq7-by-j-skoba/)  
+
 These programs use an 8x8 BiColor LED Matrix display from Adafruit to display frequency output from the MSGEQ7 Graphic Equalizer
 Display filter.
 
-This project also uses an MSGEQ7 Graphic Equalizer Display filter available from [Sparkfun.](https://www.sparkfun.com/products/10468)
+The MSGEQ7 Graphic Equalizer Display filter is available from [Sparkfun.](https://www.sparkfun.com/products/10468)
  
-This project uses the Adafruit 8x8 BiColor LED Matrix with I2C Backpack available from [Adafruit.](https://www.adafruit.com/product/902)
+The Adafruit 8x8 BiColor LED Matrix with I2C Backpack is available from [Adafruit.](https://www.adafruit.com/product/902)
 
 Examples
 --------
